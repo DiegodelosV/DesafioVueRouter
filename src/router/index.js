@@ -29,7 +29,7 @@ const routes = [
       import(/* webpackChunkName: "about" */ "../views/ContactoView.vue"),
     props: () => {
       return {
-        nombre: "Suricata Comida S.A.",
+        nombre: "Zuricata Comida S.A.",
         email: "contacto@Suricata.com",
         telefono: "+56923456789",
         direccion: "Calle Balmaceda #343, Concepción, CHILE",
